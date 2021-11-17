@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mahdi Zareei</h1>
+<h2 align="center">Hi, I'm Mahdi Zareei</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdizareeii&label=Profile%20views&color=0e75b6&style=flat" alt="mahdizareeii" /> </p>
 
